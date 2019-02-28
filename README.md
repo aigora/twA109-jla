@@ -1,10 +1,10 @@
-# Título del trabajo
+# Termómetro Infrarrojo 
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El proyecto consiste en desarrollar una Termómetro Infrarrojo con el que medir temperaturas a una cierta distancia, para lo que sera necesario emplear un sensor termico que se comunique con el arduino.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Jaime Lopez Arjonilla - jlarjonilla
 
 ## Objetivos del trabajo
 
