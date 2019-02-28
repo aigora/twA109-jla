@@ -8,4 +8,5 @@ Jaime Lopez Arjonilla - jlarjonilla
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Aprender a programar y montar un dispositivo Arduino.
+Aprender a programar y montar perifericos que interactuen con Arduino.
