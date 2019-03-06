@@ -10,3 +10,7 @@ Jaime Lopez Arjonilla - jlarjonilla
 
 Aprender a programar y montar un dispositivo Arduino.
 Aprender a programar y montar perifericos que interactuen con Arduino.
+
+## Sensores y Actuadores
+
+Se va autilizar un sensor que capta señales de calor en forma de radiaciones infrarrojas, y unos servomotores para mover dicho sensor.
