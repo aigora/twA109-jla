@@ -8,8 +8,9 @@ Jaime Lopez Arjonilla - jlarjonilla
 
 ## Objetivos del trabajo
 
--Aprender a programar y montar un dispositivo Arduino.
--Aprender a programar y montar perifericos que interactuen con Arduino.
+- Aprender a programar y montar un dispositivo Arduino.
+
+- Aprender a programar y montar perifericos que interactuen con Arduino.
 
 ## Sensores y Actuadores
 
